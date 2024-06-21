@@ -31,7 +31,7 @@ Theories of symmetry in crystalline materials
 
 群论在本次课程中占据重要的地位，几乎每次的内容都是微扰对称群展开的，参考[手性的基础](https://github.com/Osgood001/crystal-symmetry/issues/6)，其中介绍了大家都很熟悉的手性，但在此基础上还划分了Sohncke群，作为230种空间群的子群。
 
-后面关系磁性材料的部分，我也没有记录，感兴趣的可以点击链接[查看和 Kimi 智能助手的对话］(https://kimi.moonshot.cn/share/cpqll59mqu0apbi53dcg)。
+后面关系磁性材料的部分，我也没有记录，感兴趣的可以点击链接[查看和Kimi智能助手的对话](https://kimi.moonshot.cn/share/cpqll59mqu0apbi53dcg)。
 
 主要是考虑到磁矢量之后对称性的增加。在会议海报阶段，有同学也介绍了自旋空间群（Spin Space Group）据了解是考虑空间群的基础上，加上自旋的群变换，给出的一类新的群。
 
